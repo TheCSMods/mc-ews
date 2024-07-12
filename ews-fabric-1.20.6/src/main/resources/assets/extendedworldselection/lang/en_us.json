@@ -1,0 +1,9 @@
+{
+	"extendedworldselection": "Extended world selection",
+	
+	"extendedworldselection.io.access_check.temp_file": "This file was created by the \"Extended world selection\" mod to verify Minecraft's access to this directory.\n\nYou may safely delete this temporary file.",
+	"extendedworldselection.io.access_check.fail": "The game does not have access to the currently selected world \"saves\" directory.\nIf you have chosen this directory, then please select another one.",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "Opens a menu that allows you to create and load worlds in another directory on your disk drive.",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "Left-click to choose a directory"
+}

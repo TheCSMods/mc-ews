@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "${project.properties.maven_group}.${project.properties.mod_id}.client.mixin.events",
+	"compatibilityLevel": "JAVA_21",
+	"client":
+	[
+		"MixinWorldListWidget"
+	],
+	"injectors": { "defaultRequire": 1 }
+}
