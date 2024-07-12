@@ -1,0 +1,12 @@
+{
+	"extendedworldselection": "Расширенный выбор миров",
+	
+	"extendedworldselection.io.access_check.temp_file": "Этот файл был создан модом «Расширенный выбор мира» для проверки доступа Minecraft к этому каталогу.\n\nВы можете безопасно удалить этот временный файл.",
+	"extendedworldselection.io.access_check.fail": "У игры нет доступа к выбранному в данный момент каталогу сохранений.\nЕсли вы выбрали этот каталог, пожалуйста, выберите другой.",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "Открывает меню, позволяющее создавать и загружать миры в другой каталог на вашем жёстком диске.",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "Щёлкните левой кнопкой мыши, чтобы выбрать каталог",
+	
+	
+	"tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "Используйте колесико мыши или щёлкните левой кнопкой мыши и перетащите, чтобы прокрутить этот раздел..."
+}
