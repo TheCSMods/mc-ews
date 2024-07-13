@@ -1,0 +1,9 @@
+{
+	"extendedworldselection": "Sélection de monde étendue",
+	
+	"extendedworldselection.io.access_check.temp_file": "Ce fichier a été créé par le mod \"Sélection de monde étendue\" pour vérifier l'accès de Minecraft à ce répertoire.\n\nVous pouvez supprimer ce fichier temporaire en toute sécurité.",
+	"extendedworldselection.io.access_check.fail": "Le jeu n'a pas accès au répertoire \"saves\" du monde actuellement sélectionné.\nSi vous avez choisi ce répertoire, veuillez en sélectionner un autre.",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "Ouvre un menu permettant de créer et charger des mondes dans un autre répertoire de votre disque dur.",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "Cliquez avec le bouton gauche pour choisir un répertoire"
+}

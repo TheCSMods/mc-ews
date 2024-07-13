@@ -1,0 +1,9 @@
+{
+	"extendedworldselection": "Genişletilmiş dünya seçimi",
+	
+	"extendedworldselection.io.access_check.temp_file": "Minecraft'ın bu dizine erişimini doğrulamak için \"Genişletilmiş dünya seçimi\" mod tarafından bu dosya oluşturulmuştur.\n\nBu geçici dosyayı güvenle silebilirsiniz.",
+	"extendedworldselection.io.access_check.fail": "Oyun, şu anda seçili olan dünya \"saves\" dizinine erişemiyor.\nBu dizini seçtiyseniz, lütfen başka bir dizin seçin.",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "Disk sürücünüzdeki başka bir dizinde dünya oluşturmanıza ve yüklemenize olanak tanıyan bir menüyü açar.",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "Bir dizin seçmek için sol tıklayın"
+}

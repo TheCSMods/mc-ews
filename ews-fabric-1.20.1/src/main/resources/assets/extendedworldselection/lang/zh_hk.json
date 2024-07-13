@@ -1,0 +1,9 @@
+{
+	"extendedworldselection": "擴展世界選擇",
+	
+	"extendedworldselection.io.access_check.temp_file": "此文件由“擴展世界選擇”模組創建，用於驗證Minecraft對該目錄的訪問權限。\n\n您可以安全地刪除此臨時文件。",
+	"extendedworldselection.io.access_check.fail": "遊戲無法訪問當前選擇的世界“saves”目錄。\n如果您選擇了此目錄，請選擇另一個。",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "打開一個菜單，允許您在磁碟上的另一個目錄中創建和加載世界。",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "左鍵單擊選擇一個目錄"
+}

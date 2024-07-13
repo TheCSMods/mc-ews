@@ -1,0 +1,9 @@
+{
+	"extendedworldselection": "拡張ワールド選択",
+	
+	"extendedworldselection.io.access_check.temp_file": "このファイルはMinecraftのこのディレクトリへのアクセスを確認するために「拡張ワールド選択」MODによって作成されました。\n\nこの一時ファイルは安全に削除できます。",
+	"extendedworldselection.io.access_check.fail": "ゲームは現在選択されている「saves」ディレクトリにアクセスできません。\nこのディレクトリを選択した場合は、別のディレクトリを選択してください。",
+	
+	"extendedworldselection.gui.ews_button.tooltip": "ディスクドライブ上の別のディレクトリでワールドを作成およびロードできるメニューを開きます。",
+	"extendedworldselection.gui.ews_button.tooltip.tips": "ディレクトリを選択するには左クリック"
+}
