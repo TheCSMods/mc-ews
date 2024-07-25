@@ -16,7 +16,7 @@
 	"license": "${project.properties.mod_license}",
 	"icon": "${project.properties.mod_icon}",
 
-	"environment": "*",
+	"environment": "client",
 	"entrypoints":
 	{
 		"client": ["${project.properties.mod_entrypoint_client}"]
@@ -29,6 +29,6 @@
 		"fabricloader": ">=${project.properties.loader_version}",
 		"minecraft": "${project.properties.mod_depends_minecraft}",
 		"java": ">=17",
-		"tcdcommons": ">=3.9.7"
+		"tcdcommons": ">=3.12.2"
 	}
 }
